@@ -32,3 +32,7 @@ This is a simple file converter application built with Python and Tkinter GUI to
    ```bash
    git clone <https://github.com/AvinashParab99/File_converter>
    cd File-Converter
+## Author
+
+- Avinash Parab(https://github.com/AvinashParab99)
+
